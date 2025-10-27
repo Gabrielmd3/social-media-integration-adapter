@@ -1,0 +1,15 @@
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\bin\Debug\net9.0\Social-Media-Integration-Adapter.exe
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\bin\Debug\net9.0\Social-Media-Integration-Adapter.deps.json
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\bin\Debug\net9.0\Social-Media-Integration-Adapter.runtimeconfig.json
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\bin\Debug\net9.0\Social-Media-Integration-Adapter.dll
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\bin\Debug\net9.0\Social-Media-Integration-Adapter.pdb
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\Social-Media-Integration-Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\Social-Media-Integration-Adapter.AssemblyInfoInputs.cache
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\Social-Media-Integration-Adapter.AssemblyInfo.cs
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\Social-Media-Integration-Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\Social-Media-Integration-Adapter.sourcelink.json
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\Social-Media-Integration-Adapter.dll
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\refint\Social-Media-Integration-Adapter.dll
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\Social-Media-Integration-Adapter.pdb
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\Social-Media-Integration-Adapter.genruntimeconfig.cache
+C:\Users\Gabriel Delfes\Documents\GitHub\social-media-integration-adapter\Social-Media-Integration-Adapter\obj\Debug\net9.0\ref\Social-Media-Integration-Adapter.dll
